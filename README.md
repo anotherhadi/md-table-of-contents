@@ -16,9 +16,9 @@ Markdown Table Of Contents is a straightforward command-line tool designed to ge
 
 
 2. **Usage**: Run the executable with your Markdown file as an argument.
-   ```bash
-   md-table-of-contents <markdownfile.md>
-   ```
+  ```bash
+  md-table-of-contents <markdownfile.md>
+  ```
 3. **Output**: The tool will generate a table of contents based on the headings in your Markdown file.
 
 ## Example
