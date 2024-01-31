@@ -4,12 +4,14 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"regexp"
 	"strings"
 )
 
 func formatName(line string) string {
 	str := strings.TrimSpace(line)
 	str = strings.ReplaceAll(str, " ", "-")
+	str = regexp.MustCompile(`[^a-zA-Z0-9 _-]+`).ReplaceAllString(str, "")
 	str = strings.ToLower(str)
 	return str
 }
