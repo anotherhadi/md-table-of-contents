@@ -1,13 +1,12 @@
 # Markdown Table Of Contents
 
-Markdown Table Of Contents is a straightforward command-line tool designed to generate a table of contents for your Markdown files based on titles.
-
 <p>
     <a href="https://github.com/anotherhadi/md-table-of-contents/releases"><img src="https://img.shields.io/github/release/anotherhadi/md-table-of-contents.svg" alt="Latest Release"></a>
     <a href="https://pkg.go.dev/github.com/anotherhadi/md-table-of-contents?tab=doc"><img src="https://godoc.org/github.com/golang/gddo?status.svg" alt="GoDoc"></a>
     <a href="https://goreportcard.com/report/github.com/anotherhadi/md-table-of-contents"><img src="https://goreportcard.com/badge/anotherhadi/md-table-of-contents" alt="GoReportCard"></a>
 </p>
 
+Markdown Table Of Contents is a straightforward command-line tool designed to generate a table of contents for your Markdown files based on titles.
 
 ## Features
 
