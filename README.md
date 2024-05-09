@@ -17,7 +17,7 @@ Markdown Table Of Contents is a straightforward command-line tool designed to ge
 
 1. **Installation**:
   ```bash
-  go get github.com/anotherhadi/md-table-of-contents@latest
+  go install github.com/anotherhadi/md-table-of-contents@latest
   ```
 
 
