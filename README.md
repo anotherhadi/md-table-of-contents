@@ -1,5 +1,11 @@
 # Markdown Table Of Contents
 
+> [!IMPORTANT]
+> This project is deprecated and no longer maintained.
+> Please, use [markdown-table-of-contents](https://github.com/anotherhadi/markdown-table-of-contents) instead.
+
+---
+
 <p>
     <a href="https://github.com/anotherhadi/md-table-of-contents/releases"><img src="https://img.shields.io/github/release/anotherhadi/md-table-of-contents.svg" alt="Latest Release"></a>
     <a href="https://pkg.go.dev/github.com/anotherhadi/md-table-of-contents?tab=doc"><img src="https://godoc.org/github.com/golang/gddo?status.svg" alt="GoDoc"></a>
